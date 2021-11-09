@@ -1,12 +1,12 @@
 # Specializations and Certificates 🎓
 
-*Here, I have provided all the certificates I earned.* <br>
+*Here, I have provided all the certificates I earned* <br>
 - *To check all the certificates for more details please visit **[my website](https://moinshawon.000webhostapp.com/blog/certificates.html)**.* 
-- *You can also check my **[online CV](https://moinshawon.ml/cv/)** and [my portfolio](https://moinshawon.github.io/).*
+- *You can also check my **[online CV](https://moinshawon.ml/cv/)** and **[my portfolio](https://moinshawon.github.io/)**.*
 
 <hr>
 
-## Deep Learning:
+### Deep Learning
 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/QR9X3BKT4DK6)
 2. [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/385d0abd26804ffca37e440a7a3b093f)
 3. [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/6540659481124f09bc8f7c682b4f12f6)
@@ -16,7 +16,7 @@
 
 <hr>
 
-## Python courses:
+### Python courses
 
 1. [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/XYQXQ32SV3LH) (*5 course specialization*)
     1. [Python Basics](https://www.coursera.org/account/accomplishments/certificate/NTPEVNCPENTN)
@@ -29,7 +29,7 @@
 
 <hr>
 
-## Software quality assurance
+### Software quality assurance
 
 1. [SQL Basic](https://www.hackerrank.com/certificates/5c3139f441ed)
 2. [Web scraping for Data Science](https://www.udemy.com/certificate/UC-22700c82-2fd0-4c03-9d30-061aaf456bf0/)
@@ -37,7 +37,7 @@
 
 <hr>
 
-## Web development
+### Web development
 
 1. [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/certificate/7PXGV2S5TR2B)
 2. [Building Web Applications in Django](https://www.coursera.org/account/accomplishments/certificate/UEV8Z8NFATH2)
@@ -45,7 +45,7 @@
 
 <hr>
 
-## Academic and Volunteer
+### Academic and Volunteer
 
 1. [Undergraduate teaching assistant](https://drive.google.com/file/d/1gggvv-QVVvKzeoxGfLG55T_ouZTqyLB3/view)
 2. [Book Reading Competition at British Council](https://drive.google.com/file/d/1kg54QCReHaGZ3LmhyL-CEJwgS6iWKSnb/view)
