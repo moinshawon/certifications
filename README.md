@@ -6,6 +6,11 @@
 
 <hr>
 
+### Data Analytics
+1. [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/HEB8EBRU6355)
+
+<hr>
+
 ### Deep Learning
 1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/QR9X3BKT4DK6)
 2. [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/385d0abd26804ffca37e440a7a3b093f)
