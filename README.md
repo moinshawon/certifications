@@ -9,6 +9,7 @@
 ### Data Analytics
 1. [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/HEB8EBRU6355)
 2. [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/6PWKGAKGLZCD)
+3. [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/Z9XUB3QWW5AF)
 
 <hr>
 
