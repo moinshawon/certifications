@@ -1,7 +1,6 @@
 # Specializations and Certificates 🎓
 
 *Here, I have provided all the certificates I earned* <br>
-- *To check all the certificates for more details please visit **[my website](https://moinshawon.000webhostapp.com/blog/certificates.html)**.* 
 - *You can also check my **[online CV](https://moinshawon.ml/cv/)** and **[my portfolio](https://moinshawon.github.io/)**.*
 
 <hr>
